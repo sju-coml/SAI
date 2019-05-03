@@ -1,5 +1,5 @@
 # CoML
-# SJU - Participating in the competition to study Machine Learning
+### SJU - Participating in the competition to study Machine Learning
 
 <hr>
 <br>
