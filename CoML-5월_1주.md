@@ -13,7 +13,7 @@
 ## 2. 순서
  - 자기 소개
  - CoML 1기 카톡방 만들기
-   1. 이름 : SAI (Sejong Artificial Intellegence)
+   1. 이름 : SAI (Sejong Artificial Intelligence)
  - 관심 분야
    1. 이미지, Deep Learning
    2. 마케팅
