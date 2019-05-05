@@ -1,4 +1,4 @@
-# CoML - 5월 1주
+# SAI - 5월 1주
 
 <hr>
 <br>
@@ -12,7 +12,7 @@
 
 ## 2. 순서
  - 자기 소개
- - CoML 1기 카톡방 만들기
+ - SAI 1기 카톡방 만들기
    1. 이름 : SAI (Sejong Artificial Intelligence)
  - 관심 분야
    1. 이미지를 이용한, 자율주행, Deep Learning
@@ -22,7 +22,7 @@
  - 학회의 앞으로의 방향성과 목표
    1. 캐글   : https://www.kaggle.com/competitions 에서 대회가 열림. 상금 - knowledge
    <br>캐글의 구성 : 다른 사람 코드 볼 수 있음(커널) / 주제별 토론장 / 
-   2. 데이콘 : https://www.dacon1.com/ 에서도 대회가 열림.
+   2. 데이콘 : 에서도 대회가 열림.
    3. 에드윗 : https://www.edwith.org/ 은 네이버에서 운영하는 곳.
    <br>https://www.edwith.org/ptnr/dsc 에 기초통계학 강의들도 나와 있음.
    4. 인프런 : https://www.inflearn.com/ 에서 가볍게 치고 읽고가는것도 괜찮음.
@@ -39,7 +39,7 @@
 ## 3. Competition 후보
  - Dacon Movie Tutorial
  - Kaggle MNIST
- - Kaggle 타이타닉
+ - [선정] Kaggle 타이타닉
  - DSC 2019
  
  <br>
