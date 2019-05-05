@@ -1,5 +1,6 @@
-# CoML
-### SJU - Participating in the competition to study Machine Learning
+# SAI
+### SJU - Sejong Artificial Intelligence
+### Participating in the competition to study Machine Learning
 
 <hr>
 <br>
@@ -13,12 +14,12 @@
  
 ## 2. Member
 
-| 학교 | 학과 | 학번 | 이름 |
+| 학교 | 학과 | 학번 | 이름 | 기타 |
 |---|:---:|---:|---:|
-| 세종대학교 | 컴퓨터공학과 | 14011870 | 서기원 |
-| 세종대학교 | 컴퓨터공학과 | 18011573 | 이장후 |
-| 세종대학교 | 컴퓨터공학과 | 17011572 | 임수현 |
-| 세종대학교 | 생명시스템학부 | 19010642 | 나영채 |
+| 세종대학교 | 컴퓨터공학과 | 14011870 | 서기원 | Leader |
+| 세종대학교 | 컴퓨터공학과 | 18011573 | 이장후 | Co-Founder |
+| 세종대학교 | 컴퓨터공학과 | 17011572 | 임수현 | Co-Founder |
+| 세종대학교 | 생명시스템학부 | 19010642 | 나영채 | Co-Founder |
 
  <br>
 
