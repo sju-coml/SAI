@@ -15,9 +15,9 @@
  - CoML 1기 카톡방 만들기
    1. 이름 : SAI (Sejong Artificial Intelligence)
  - 관심 분야
-   1. 이미지, Deep Learning
-   2. 마케팅
-   3. 전반적인 ML
+   1. 이미지를 이용한, 자율주행, Deep Learning
+   2. 마켓팅에 이용되는
+   3. 전반적인 ML, 
    4. 게임
  - 학회의 앞으로의 방향성과 목표
    1. 
