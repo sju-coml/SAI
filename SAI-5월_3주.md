@@ -24,3 +24,4 @@
 ## 3. 다음 시간까지 Submission 하기
  - 본인이 분석한 커널을 기반으로 하여 Submission 1회
  - 코드 분석한 것을 바탕으로 코드 수정하여 Submission 1회
+   변경한 Parameter 값과 Score를 SAI-1st_Competition 기록하기.
