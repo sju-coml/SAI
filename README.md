@@ -1,6 +1,5 @@
 # SAI
 ### SJU - Sejong Artificial Intelligence
-### Participating in the competition to study Machine Learning
 
 <hr>
 <br>
@@ -20,12 +19,13 @@
 | 세종대학교 | 컴퓨터공학과 | 18011573 | 이장후 | Co-Founder |
 | 세종대학교 | 컴퓨터공학과 | 17011572 | 임수현 | Co-Founder |
 | 세종대학교 | 생명시스템학부 | 19010642 | 나영채 | Co-Founder |
+| 세종대학교 | 컴퓨터공학과 | 14010994 | 주영준 | Co-Founder |
 
  <br>
 
 ## 3. 기간
  - 1기 : 2019. 05. 05 ~ 2019. 06. 10
- - Cont.
+ - 1기_Summer : 2019. 06. 24 ~ 2019. 08. 31
 
 <br>
  
@@ -42,7 +42,5 @@
  <br>
  
 ## 6. 기타
- - 기본적인 이론은 개인적으로 공부한다.
- - 코드 분석, 대회에 필요한 이론 및 논문 공부 이외의 기본 이론은 같이 학습하지 않는다.
  - 솔루션을 공부한 후, Pdf/Ppt/md/txt 등 원하는 형식으로 공부한 내용을 공유한다.
  - 깃헙을 통해 공부자료와 코드를 공유한다. (Private/Public)
