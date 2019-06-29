@@ -53,5 +53,6 @@
 ## 7. 연혁
 ### (1) 세종대 제6회 SW·인공지능 해커톤 대상
 <h4> Team "10000 SAI, 10000 10000 SAI" (hurray!) : Sejong University SW/AI Hackathon - Grand prize </h4>
+
  - 날짜 : 2019. 06. 26
  - 참가자 : 주영준, 임수현, 이장후, 나영채
