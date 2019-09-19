@@ -59,6 +59,13 @@
  
 
 ## 7. 연혁
+
+### (0) 창립
+
+- 날짜 : 2019. 03
+- 기여자 : 서기원, 이장후, 나영채, 임수현
+- 주영준 초청 : 2019. 04
+
 ### (1) 세종대 제6회 SW·인공지능 해커톤 대상
 <h4> Team "10000 SAI, 10000 10000 SAI" (hurray!) : Sejong University SW/AI Hackathon - Grand prize </h4>
 
