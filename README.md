@@ -48,6 +48,7 @@
 ## 6. 기타
  - 솔루션을 공부한 후, Pdf/Ppt/md/txt 등 원하는 형식으로 공부한 내용을 공유한다.
  - 깃헙을 통해 공부자료와 코드를 공유한다. (Private/Public)
+ - SAI Youtube : https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg?view_as=subscriber
  
  <br>
  
