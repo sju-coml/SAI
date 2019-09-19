@@ -1,8 +1,8 @@
 # SAI
 ### SJU - Sejong Artificial Intelligence
+<hr>
 #### 2019-03 ~
 
-<hr>
 <br>
 
 ## 1. Index
