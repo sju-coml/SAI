@@ -37,3 +37,21 @@
 - 타 대학의 팀인 경우, 구성원 중 세종대학교 학생이 포함되어야 함
 
 ```
+
+## 아이디어
+
+[GAN 관련 작업 모음](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/) - Photos to Emojis, Photograph Editing 정도 관심 
+
+[Interactive wall](https://www.youtube.com/watch?v=Kw0aHjabY1U) - 실용적 
+
+[빵형의개발도상국](https://www.youtube.com/watch?v= 
+
+[좋아하는 미디어 아티스트 작가] (http://andreasrefsgaard.dk/) 
+
+[ITP Show] (https://www.youtube.com/watch?v=3Dzc6bwpBR0) 
+
+## 고민거리 
+GAN을 공부할겸 프로젝트도 만들어볼겸 하고 싶지만 인터랙티브한 요소가 떨어져 재밌진않다.. 
+GAN에 인터랙티브한 요소를 넣을 수 있을까?
+
+> 다른 수업에서 나왔던 아이디어 : 자동채색 혹은 Style Transfer에서 아두이노로 색감지하고 감지한 색 바탕으로 Style Transfer
