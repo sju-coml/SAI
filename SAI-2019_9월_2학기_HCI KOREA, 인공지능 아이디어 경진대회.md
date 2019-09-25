@@ -46,9 +46,9 @@
 
 [빵형의개발도상국](https://www.youtube.com/watch?v=)
 
-[좋아하는 미디어 아티스트 작가] (http://andreasrefsgaard.dk/) 
+[좋아하는 미디어 아티스트 작가](http://andreasrefsgaard.dk/) 
 
-[ITP Show] (https://www.youtube.com/watch?v=3Dzc6bwpBR0) 
+[ITP Show](https://www.youtube.com/watch?v=3Dzc6bwpBR0) 
 
 ## 고민거리 
 GAN을 공부할겸 프로젝트도 만들어볼겸 하고 싶지만 인터랙티브한 요소가 떨어져 재밌진않다.. 
