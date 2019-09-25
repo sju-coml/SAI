@@ -44,7 +44,7 @@
 
 [Interactive wall](https://www.youtube.com/watch?v=Kw0aHjabY1U) - 실용적 
 
-[빵형의개발도상국](https://www.youtube.com/watch?v=)
+[빵형의개발도상국](https://www.youtube.com/results?search_query=%EB%B9%B5%ED%98%95%EC%9D%98%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD)
 
 [좋아하는 미디어 아티스트 작가](http://andreasrefsgaard.dk/) 
 
