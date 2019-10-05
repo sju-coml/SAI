@@ -21,7 +21,7 @@
 
 | 학교 | 학과 | 학번 | 이름 | 기타 | state | Email | Blog |
 |---|:---:|:---:|:---:|:---:|:---|:---:|:---:|
-| 세종대학교 | 컴퓨터공(재) | 14011870 | 서기원 | Co-Founder | ○☆ | | |
+| 세종대학교 | 컴퓨터공(재) | 14011870 | 서기원 | Co-Founder | ○☆ | | [Naver](http://naver.com) |
 | 세종대학교 | 컴퓨터공(재) | 18011573 | 이장후 | Co-Founder |  ●  | dlwkdgn1@naver.com | |
 | 세종대학교 | 컴퓨터공(재) | 17011572 | 임수현 | Co-Founder |  ●  | shelltlove1@naver.com | |
 | 세종대학교 | 생명시스템공(재) | 19010642 | 나영채 | Co-Founder | ● | luna20617@gmail.com | |
