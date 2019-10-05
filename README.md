@@ -13,7 +13,7 @@
  - 중소규모 프로젝트 진행 
  - 오프라인 해커톤, 프로젝트
  - 동아리 내 세미나, 학교 세미나 개최
- - 2019학년도 2학기 :https://github.com/sju-coml/SAI/blob/master/SAI-2019_9%EC%9B%94_2%ED%95%99%EA%B8%B0.md
+ - 2019학년도 2학기 : https://github.com/sju-coml/SAI/blob/master/SAI-2019_9%EC%9B%94_2%ED%95%99%EA%B8%B0_%EC%A0%95%EA%B8%B0%EB%AA%A8%EC%9E%84.md
  
  <br>
  
