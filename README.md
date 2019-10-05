@@ -21,14 +21,14 @@
 
 | 학교 | 학과 | 학번 | 이름 | 기타 | state | Email | Blog |
 |---|:---:|:---:|:---:|:---:|:---|:---:|:---:|
-| 세종대학교 | 컴퓨터공(재) | 14011870 | 서기원 | Co-Founder | ○☆ | | |
-| 세종대학교 | 컴퓨터공(재) | 18011573 | 이장후 | Co-Founder |  ●  | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
-| 세종대학교 | 컴퓨터공(재) | 17011572 | 임수현 | Co-Founder |  ●  | shelltlove1@naver.com | |
-| 세종대학교 | 생명시스템공(재) | 19010642 | 나영채 | Co-Founder | ● | luna20617@gmail.com | |
-| 세종대학교 | 컴퓨터공(재) | 14010994 | 주영준 | Co-Founder  | ●★ | go1217jo@naver.com<br>Kkyong93@gmail.com |[Tstory](https://wdprogrammer.tistory.com)|
-| 세종대학교 | 컴퓨터공(재) | 14011890 | 김기홍 | 2기 2019-09 | ● | kh9342@naver.com | |
-| 세종대학교<br>세종대학원 | 건축공(졸)<br>건축공(재) | 122384<br>19160016 | 배현진 | 2기 2019-09 | ● | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
-| 세종대학교 | 지능기전공(재) | 17013252 | 이상민 | 2기 2019-10 | ● | diasy3277@naver.com<br>diasy3277@gmail.com | |
+| 세종대 | 컴퓨터공(재) | 14011870 | 서기원 | Co-Founder | ○☆ | | |
+| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Co-Founder |  ●  | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
+| 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Co-Founder |  ●  | shelltlove1@naver.com | |
+| 세종대 | 생명시스템공(재) | 19010642 | 나영채 | Co-Founder | ● | luna20617@gmail.com | |
+| 세종대 | 컴퓨터공(재) | 14010994 | 주영준 | Co-Founder  | ●★ | go1217jo@naver.com<br>Kkyong93@gmail.com |[Tstory](https://wdprogrammer.tistory.com)|
+| 세종대 | 컴퓨터공(재) | 14011890 | 김기홍 | 2기 2019-09 | ● | kh9342@naver.com | |
+| 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | 122384<br>19160016 | 배현진 | 2기 2019-09 | ● | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
+| 세종대 | 지능기전공(재) | 17013252 | 이상민 | 2기 2019-10 | ● | diasy3277@naver.com<br>diasy3277@gmail.com | |
 
 <br>
 
