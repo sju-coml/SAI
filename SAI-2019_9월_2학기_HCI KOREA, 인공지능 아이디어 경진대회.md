@@ -50,6 +50,10 @@
 
 [ITP Show](https://www.youtube.com/watch?v=3Dzc6bwpBR0) 
 
+
+[youtube - 모자이크 만드는 유틸 프로그램도 있다! 소개영상](https://youtu.be/mF__d92nPPQ)
+
+
 ## 고민거리 
 GAN을 공부할겸 프로젝트도 만들어볼겸 하고 싶지만 인터랙티브한 요소가 떨어져 재밌진않다.. 
 GAN에 인터랙티브한 요소를 넣을 수 있을까?
