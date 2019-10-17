@@ -69,6 +69,8 @@
 - 기여자 : 서기원, 이장후, 나영채, 임수현
 - 기여자 : 주영준 (2019.04)
 
+<br>
+
 ### (1) 세종대 제6회 SW·인공지능 해커톤 대상
 <h4> Team "10000 SAI, 10000 10000 SAI" (hurray!) : Sejong University SW/AI Hackathon - Grand prize </h4>
 
@@ -76,6 +78,7 @@
  - 참가자 : 주영준, 임수현, 이장후, 나영채
  - 환상적 조력자 : 서기원(팀 생성)
 
+<br>
 
 ### (2) 세종대 인공지능 아이디어 공모전 장려상
 <h4> Team "SAETI" (SETI + SAI) : Sejong University AI Idea contest - Participation prize </h4>
