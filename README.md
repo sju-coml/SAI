@@ -75,6 +75,7 @@
 <h4> Team "10000 SAI, 10000 10000 SAI" (hurray!) : Sejong University SW/AI Hackathon - Grand prize </h4>
 
  - 날짜 : 2019. 06. 26
+ - 주제 : Collabo LAB 이용 로그, 현재 사용현황
  - 참가자 : 주영준, 임수현, 이장후, 나영채
  - 환상적 조력자 : 서기원(팀 생성)
 
@@ -84,5 +85,6 @@
 <h4> Team "SAETI" (SETI + SAI) : Sejong University AI Idea contest - Participation prize </h4>
 
  - 날짜 : 2019. 09. 11
+ - 주제 : 세종인의 얼굴이 만드는 모자이크 설치예술 - who makes sejong
  - 단순한 참가자 : 주영준, 이장후, 배현진, 나영채, 이상민
  - 환상적 조력자 : 임수현(아이디어,PPT) 김기홍(아이디어,기획서)
