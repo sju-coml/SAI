@@ -63,7 +63,7 @@
  
  <br>
  
- - Repository naming rule : SAI-[year]-[Teamname]-[head]
+ - Repository naming rule : SAI-[year]-[purpose]-[Teamname]-[topic]
 
  <br>
  
