@@ -60,6 +60,10 @@
  <br>
  
  - 활동 방향은 차차 정해 나가고, 별도의 문서를 통해 관리한다.
+ 
+ <br>
+ 
+ - Repository naming rule : SAI-[year]-[Teamname]-[head]
 
  <br>
  
