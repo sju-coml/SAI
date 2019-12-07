@@ -85,7 +85,7 @@
  - 주제 : Collabo LAB 이용 로그, 현재 사용현황
  - 참가자 : 주영준, 임수현, 이장후, 나영채
  - 환상적 조력자 : 서기원(팀 생성)
- - 홍보기사 [세종대학교 홍보블로그 세온]https://m.blog.naver.com/PostView.nhn?blogId=sejong_univ&logNo=221586065819&proxyReferer=https%3A%2F%2Fwww.google.com%2F [세종대학교 홍보실]http://www.sejongpr.ac.kr/sejongnewspaperview.do?boardType=4&pkid=15815 [아시아투데이]http://www.asiatoday.co.kr/view.php?key=20190707010004349 [매일경제] https://www.mk.co.kr/news/society/view/2019/07/496852/ [동아일보] http://www.donga.com/news/article/all/20190716/96492579/1 ***도대체 돈을 얼마나 뿌린거지***
+ - 홍보기사 [세종대학교 홍보블로그 세온](https://m.blog.naver.com/PostView.nhn?blogId=sejong_univ&logNo=221586065819&proxyReferer=https%3A%2F%2Fwww.google.com%2F) [세종대학교 홍보실](http://www.sejongpr.ac.kr/sejongnewspaperview.do?boardType=4&pkid=15815) [아시아투데이](http://www.asiatoday.co.kr/view.php?key=20190707010004349) [매일경제](https://www.mk.co.kr/news/society/view/2019/07/496852/) [동아일보]( http://www.donga.com/news/article/all/20190716/96492579/1)  ***도대체 돈을 얼마나 뿌린거지***
 
 <br>
 
