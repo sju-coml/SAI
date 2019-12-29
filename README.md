@@ -109,7 +109,7 @@
  
 <br>
 
-### (4) 세종대 제7회 SW·인공지능 해커톤 대상
+### (4) 세종대 제7회 SW·인공지능 해커톤 은상
 <h4> Team "준비된 과자를 SAI각 SAI각 잘먹는팀" (사각사각~) : Sejong University SW/AI Hackathon - Silver Prize 5/30 </h4>
 
  - 날짜 : 2019. 12. 26
