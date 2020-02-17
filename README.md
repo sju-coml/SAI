@@ -31,7 +31,7 @@
 | 세종대 | 컴퓨터공(재) | 14011870 | 서기원 | Cofounder | ○☆ | | |
 | 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder |  ●  | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
 | 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ●  | shelltlove1@naver.com | |
-| 세종대 | 생명시스템공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com | [Tstory](https://luna-b.tistory.com/) [GitHub](https://github.com/lunab/resume) |
+| 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com | [Tstory](https://luna-b.tistory.com/) [GitHub](https://github.com/lunab/resume) |
 | 세종대 | 컴퓨터공(재) | 14010994 | 주영준 | Cofounder  | ○☆ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
 | 세종대<br>GIST | 컴퓨터공(졸)<br>인공지능 | 14011890 | 김기홍 | 2019-09 | ● | kh9342@naver.com | |
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | 122384<br>19160016 | 배현진 | 2019-09 | ● | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
@@ -111,7 +111,7 @@
  - 주제 : 세종인의 얼굴이 만드는 모자이크 설치예술 - who makes sejong
  - 단순한 참가자 : 이장후, 배현진, 나영채, 이상민, 김기홍, 임수현
  - 동아리 깃허브 : https://github.com/sju-coml/SAI-2019_SAETI
- - 언제만들겁니까~~~ *-영채-*
+ - 언제만들겁니까~~~ *-프로토타입 만드는 영채-*
  - 때려쳐 이것들아 *-기홍-*
 <br>
 
@@ -121,5 +121,5 @@
  - 날짜 : 2019. 12. 26
  - 주제 : 블록으로 쌓는 인공지능 , 인공지능 교육 시스템 전반(HW/SW)에 걸쳐서
  - 참가자 : 이장후, 나영채, (동아리 외부) 18CE 박태정, (동아리 외부) 18CE 윤성민
-
+ - 사실은 : 영채님이 교육 컨텐츠 공모전에서 수상한 기획을 사용했다구 훔하하!!
 <br>
