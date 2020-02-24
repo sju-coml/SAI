@@ -29,11 +29,11 @@
 
 | 학교 | 학과 | 학번 | 이름 | since | state | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
-| 세종대 | 컴퓨터공(재) | 14011870 | 서기원 | Cofounder | ○☆ | | |
-| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder |  ●  | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
-| 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ●  | shelltlove1@naver.com | |
+| 세종대 | 컴퓨터공(재) | 14011870 | 서기원 | Cofounder |  ○ | | |
+| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder |  ● | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
+| 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com |[GitHub](https://github.com/lunab/resume) |
-| 세종대 | 컴퓨터공(재) | 14010994 | 주영준 | Cofounder  | ○☆ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
+| 세종대<br>고려대 | 컴퓨터공(재) | 14010994 | 주영준 | Cofounder  | ○ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
 | 세종대<br>GIST | 컴퓨터공(졸)<br>인공지능 | 14011890 | 김기홍 | 2019-09 | ● | kh9342@naver.com | |
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | 122384<br>19160016 | 배현진 | 2019-09 | ● | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
 | 세종대 | 지능기전공(재) | 17013252 | 이상민 | 2019-10 | ● | diasy3277@naver.com<br>diasy3277@gmail.com | |
