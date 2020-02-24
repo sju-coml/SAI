@@ -24,10 +24,11 @@
 ## 2. Member
 
 
+st : state <br>
 ● 활동 중 ★ 현재Leader ○ 졸업/휴게 ☆ 과거Leader  <br>
 
 
-| 학교 | 학과 | 학번 | 이름 | since | state | Email | Blog |
+| 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
 | 세종대 | 컴퓨터공(재) | 14011870 | 서기원 | Cofounder |  ○ | | |
 | 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder |  ● | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
