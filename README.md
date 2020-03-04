@@ -30,7 +30,7 @@ st : state <br>
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
 | 세종대<br>재직 | 컴퓨터공(졸)<br>데이터분석 | 14011870 | 서기원 | Cofounder |  ○ | | |
 | 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder |  ● | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
-| 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com | |
+| 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com<br>gofk0709@gmail.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com |[GitHub](https://github.com/lunab/resume) |
 | 세종대<br>고려대 | 컴퓨터공(졸)<br>인공지능 | 14010994 | 주영준 | Cofounder  | ○ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
 | 세종대<br>GIST | 컴퓨터공(졸)<br>인공지능 | 14011890 | 김기홍 | 2019-09 | ● | kh9342@naver.com | |
