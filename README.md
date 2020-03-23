@@ -8,14 +8,7 @@
 
 ## 1. Index
  - 세종대학교 ML/딥러닝 학회
- - Kaggle, Dacon 등의 ML/딥러닝 대회를 위한 스터디
- - Kaggle의 커널을 통해 대회의 솔루션을 공부하고, 직접 구현해 본다.
- - 중소규모 프로젝트 진행
- - 오프라인 해커톤, 프로젝트 팀원
- - 동아리 내 세미나, 학교 세미나 개최
- - 긍정적 상호작용
- - 정보 교류
- - 신나는 나들이 
+ - [contents](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md)
  
  <br>
  
@@ -74,7 +67,7 @@ st : state <br>
 ## 6. 기타
  - 솔루션을 공부한 후, Pdf/Ppt/md/txt 등 원하는 형식으로 공부한 내용을 공유한다.
  - 깃헙을 통해 공부자료와 코드를 공유한다. (Private/Public)
- - SAI Youtube : https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg?view_as=subscriber
+ - [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg?view_as=subscriber)
  
  <br>
  
