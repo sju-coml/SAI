@@ -38,7 +38,7 @@ st : state <br>
 
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
-| 세종대 | 외 n명 | - | - | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
+| 세종대 | - | - | 외n명 | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
 
 <br>
 
