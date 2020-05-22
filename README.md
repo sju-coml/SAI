@@ -21,7 +21,7 @@ st : state <br>
 
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
-| 세종대<br>재직 | 컴퓨터공(졸)<br>데이터분석 | 14011870 | 서기원 | Cofounder |  ○ | | |
+| 세종대<br>재직 (여러분 곧 봐요!) | 컴퓨터공(졸)<br> 빅데이터 엔지니어 & 빅데이터 분석가 | 14011870 | 서기원 | Cofounder |  ○ | rldnjs3258@naver.com | |
 | 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder/Leader |  ● | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | |
 | 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com<br>suhyunified@gmail.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com |[GitHub](https://github.com/lunab/resume) |
