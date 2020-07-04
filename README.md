@@ -142,5 +142,9 @@ st : state <br>
  - 영채님이 교육 컨텐츠 공모전에서 수상한 기획을 사용했다구 훔하하!!
  
 <br>
-
 *비고 : 작명센스 없는 사람들의 대회 출전을 금지합니다.*
+
+### (5) 세종대 제8회 인공지능 해커톤 (수상, 수상)
+<h4> Team "시간이없다아이가" (붓산 아이가..!) Sejong University AI Hackathon - Prize 7/7</h4>
+<h4> Team "감동란" (감동,,,,) Sejong University AI Hackathon - Prize 7/7</h4>
+
