@@ -99,7 +99,7 @@ st : state <br>
 <br>
 
 ### (1) 세종대 제6회 SW·인공지능 해커톤 대상
-<h4> Team "10000 SAI, 10000 10000 SAI" (hurray!) : Sejong University SW/AI Hackathon - Grand prize 1/50 </h4>
+<h4> Team "10000 SAI, 10000 10000 SAI" (hurray!) : Sejong University SW/AI Hackathon - Grand prize Rank : 1/50 </h4>
 
  - 날짜 : 2019. 06. 26
  - 주제 : Collabo LAB 이용 로그 시계열 데이터 분석, Yolo v3 모델 이용 현재 이용자수 브로드캐스팅
@@ -134,7 +134,7 @@ st : state <br>
 <br>
 
 ### (4) 세종대 제7회 SW·인공지능 해커톤 은상
-<h4> Team "준비된 과자를 SAI각 SAI각 잘먹는팀" (사각사각~) : Sejong University SW/AI Hackathon - Silver Prize 5/30 </h4>
+<h4> Team "준비된 과자를 SAI각 SAI각 잘먹는팀" (사각사각~) : Sejong University SW/AI Hackathon - Silver Prize Rank : 5/30 </h4>
 
  - 날짜 : 2019. 12. 26
  - 주제 : 블록으로 쌓는 인공지능 , 인공지능 교육 시스템 전반(HW/SW)에 걸쳐서
@@ -146,7 +146,7 @@ st : state <br>
 <br>
 
 ### (5) 세종대 제8회 SW·인공지능 해커톤 장려상, 장려상
-<h4> Team "시간이없다아이가" (붓산 아이가..!) Sejong University AI Hackathon - Prize Rank : 7~11/31 </h4>
+<h4> Team "시간이없다아이가" (붓산 아이가..!) Sejong University AI Hackathon - Prize Rank : 7~13/31 </h4>
 
  - 날짜 : 2020.
  - 장소 : AIRBNB 연남동
@@ -156,7 +156,7 @@ st : state <br>
 
 <br>
 
-<h4> Team "감동란" (감동,,,,) Sejong University AI Hackathon - Prize Rank : 7~11/31 </h4>
+<h4> Team "감동란" (감동,,,,) Sejong University AI Hackathon - Prize Rank : 7~13/31 </h4>
 
  - 날짜 : 2020.
  - 장소 : AIRBNB 연남동
