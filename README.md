@@ -146,7 +146,7 @@ st : state <br>
 <br>
 
 ### (5) 세종대 제8회 SW·인공지능 해커톤 장려상, 장려상
-<h4> Team "시간이없다아이가" (붓산 아이가..!) Sejong University AI Hackathon - Prize Rank : 7~13/31 </h4>
+<h4> Team "Sigan-e-opd-Aiga" (붓산 아이가..!) Sejong University AI Hackathon - Prize Rank : 7~13/31 </h4>
 
  - 날짜 : 2020.
  - 장소 : AIRBNB 연남동
