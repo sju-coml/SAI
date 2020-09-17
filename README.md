@@ -26,7 +26,7 @@ st : state <br>
 | 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com<br>suhyunified@gmail.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com |[GitHub](https://github.com/lunab/resume) |
 | 세종대<br>고려대 | 컴퓨터공(졸)<br>인공지능 | 14010994 | 주영준 | Cofounder  | ○ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
-| 세종대<br>GIST | 영어->컴퓨터공(졸)<br> **전과자** 인공지능 **팡주행** | 14011890 | 김기홍 | 2019- xxxd1000@gmail.com09 | ○|kh9342@naver.com<br>kkyong93@gmail.com | [연구실기사](http://dongascience.donga.com/news.php?idx=37765) |
+| 세종대<br>GIST | 영어->컴퓨터공(졸)<br> **전과자** 인공지능 **팡주행** | 14011890 | 김기홍 | 2019-09 | ○|kh9342@naver.com<br>kkyong93@gmail.com | [연구실기사](http://dongascience.donga.com/news.php?idx=37765) |
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | 122384<br>19160016 | 배현진 | 2019-09 | ○ | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
 | 세종대 | 무인이동체전공(재) **팡주행** | 17013252 | 이상민 | 2019-10 | ○ | diasy3277@naver.com<br>diasy3277@gmail.com | |
 
