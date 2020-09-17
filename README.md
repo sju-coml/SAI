@@ -8,8 +8,9 @@
 
 ## 1. Index
  - 세종대학교 ML/딥러닝 학회
- - [contents](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md)
- 
+ - [컨텐츠](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md)
+ - [회의록 : 아직링크없음]()
+
  <br>
  
 ## 2. Member
