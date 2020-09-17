@@ -30,9 +30,6 @@ st : state <br>
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | 122384<br>19160016 | 배현진 | 2019-09 | ○ | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
 | 세종대 | 무인이동체전공(재) **팡주행** | 17013252 | 이상민 | 2019-10 | ○ | diasy3277@naver.com<br>diasy3277@gmail.com | |
 
-<br>
-
-### 현진누나 성공적 논문 발간 축하합니다
 
 <br>
 
@@ -45,10 +42,6 @@ st : state <br>
 | 세종대 | 생명시스템학부(재) | 20010677 | 최우혁 | Season3 | ● | xxxd1000@gmail.com |  |   
 | 세종대 | 경영학과(재) | 16010064 | 이주희 | Season3 | ● | juhee3199@gmail.com |  |   
 | 세종대 | - | - | 외n명 | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
-
-<br>
-
-### 효나누나도 성공적 논문 발간 축하해요
 
 <br>
 
