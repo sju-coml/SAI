@@ -161,3 +161,11 @@ st : state <br>
  - 
 
 <br>
+
+### (6) 세종대 제9회 SW·인공지능 해커톤 장려상
+<h4> Team "AI 조리사 Sejong University AI Hackathon - Prize Rank : 7~13/32 </h4>
+
+ - 날짜 : 2020.12
+ - 장소 : AIRBNB 서울대입구역
+ - 주제 : 인공지능 기반 식단 관리/추천 시스템
+ - 참가자 : 손상원, 송성곤, 이현동, 최우혁
