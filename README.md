@@ -41,7 +41,8 @@ st : state <br>
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
 | 세종대 | 생명시스템학부(재) | 20010677 | 최우혁 | Season3 | ● | xxxd1000@gmail.com |  |   
-| 세종대 | 경영학과(재) | 16010064 | 이주희 | Season3 | ● | juhee3199@gmail.com |  |   
+| 세종대 | 경영학과(재) | 16010064 | 이주희 | Season3 | ● | juhee3199@gmail.com |  |
+| 세종대 | 호텔관광경영 | 16010213 | 송성곤 | Season3 | ● | ark5354@gmail.com |  |
 | 세종대 | - | - | 외n명 | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
 
 <br>
