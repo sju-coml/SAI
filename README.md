@@ -9,6 +9,7 @@
 ## 1. Index
  - 세종대학교 ML/딥러닝 학회
  - [컨텐츠](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md)
+ - [회칙이 아닌 원칙](https://www.notion.so/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
  - [회의록 : 아직링크없음]()
 
  <br>
