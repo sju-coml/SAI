@@ -442,17 +442,20 @@
 
 ## 기타
 
-글자수와 rank 의 상관관계 : 연관성 높음
-[!season4_1.png](season4_1.png)
+글자수와 rank 의 상관관계 : 연관성 높음 <br>
+
+![season4_1.png](season4_1.png)
 
 <br>
 
-1학년 1학기와 rank 의 상관관계 : 약간 상관
-[!season4_2.png](season4_1.png)
+1학년 1학기와 rank 의 상관관계 : 약간 상관 <br>
+
+![season4_2.png](season4_1.png)
 
 <br>
 
-운영진 점수와 rank 의 상관관계 : 상관없음
-[!season4_3.png](season4_1.png)
+운영진 점수와 rank 의 상관관계 : 상관없음 <br>
+
+![season4_3.png](season4_1.png)
  
 <br>
