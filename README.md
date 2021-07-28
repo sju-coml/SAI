@@ -46,6 +46,10 @@ st : state <br>
 | 세종대 | 경영학(재) | 16010064 | 이주희 | Season3 | ● | juhee3199@gmail.com |  |
 | 세종대 | 호텔관광경영(재) | 16010213 | 송성곤 | Season3 | ● | ark5354@gmail.com |  |
 | 세종대 | - | - | 외n명 | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
+| 세종대 |  |  |  | Season4 | ● | @gmail.com |  |
+| 세종대 |  |  |  | Season4 | ● | @gmail.com |  |
+| 세종대 |  |  |  | Season4 | ● | @gmail.com |  |
+| 세종대 |  |  |  | Season4 | ● | @gmail.com |  |
 
 <br>
 
