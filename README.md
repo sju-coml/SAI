@@ -83,7 +83,7 @@ st : state <br>
  
 ## 6. 기타
  - 백번 강조해도 지나치지 않은 [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg?view_as=subscriber)
- - 백번 강조해도 지나치지 않은 [SAI PRINCIPLE](https://sejongai.notion.site/ba60588f35f14d5fb13f4b9e41a65e15)
+ - 백번 강조해도 지나치지 않은 [SAI PRINCIPLE](https://sejongai.notion.site/sejongai/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204)
  - 활동 방향은 차차 정해 나가고, 별도의 문서를 통해 관리한다.
  - Repository naming rule : SAI-[year]-[purpose]-[Teamname]-[topic]
 
