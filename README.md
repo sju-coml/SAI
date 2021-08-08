@@ -67,12 +67,14 @@ st : state <br>
 <br>
  
 ## 4. 모임
-*이 내용은 잘 동기화되지 않습니다. 자세한 내용은 별도 커리큘럼 문서 참고*
+*이 내용은 잘 동기화되지 않습니다. 자세한 내용은 별도 커리큘럼 문서 참고* <br> 
+*운영진이 모든 내용을 항상 추적하고 있는 것은 현실적으로 불가능해요. 여기에 올리고 싶으시면 PR 을 넣거나, 익명 구글폼에 쓰거나, 운영진에게 똑똑*
  - (Season 1) 주 1회 지향
  - (Season 2) 2주 1회 online, 1회 offline
  - (Season 3) 전체모임 주 1회, 팀별 모임 주 1회이상 자율
+   - 2학기 우수사례 : I Team, [youtube](https://www.youtube.com/playlist?list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7), [공부기록](https://sejongai.notion.site/Season3-I-Team-81ad6e4063604b75a382c7aefc4d9b85), [가장 보기좋게 정리돼 있었던 프로젝트](https://github.com/sju-coml/2020-Font-picker), 
  - (Season 4) 전체모임 상황보고, 팀별 모임 주 1회이상 자율 
-   - [1학기 우수사례 : A-ML, 컨퍼런스 leader 해리님, 넘나 멋져요!](https://github.com/sju-coml/SAI-2021-Team-A/tree/main/ml)
+   - 1학기 우수사례 : A-ML Team, 컨퍼런스 leader 해리님, 넘나 멋져요! [youtube](https://www.youtube.com/playlist?list=PLArrI8JcN6ZC0Ch0Vh73cMX34P1PiNjno) [github 공부기록, 회고](https://github.com/sju-coml/SAI-2021-Team-A/tree/main/ml)
  
  
  <br>
