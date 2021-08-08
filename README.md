@@ -67,10 +67,13 @@ st : state <br>
 <br>
  
 ## 4. 모임
- - (1기) 주 1회 지향
- - (2기) 2주 1회 online, 1회 offline
- - (3기) 전체모임 주 1회, 팀별 모임 주 1회이상 자율
- - (4기) 전체모임 상황보고, 팀별 모임 주 1회이상 자율
+*이 내용은 잘 동기화되지 않습니다. 자세한 내용은 별도 커리큘럼 문서 참고*
+ - (Season 1) 주 1회 지향
+ - (Season 2) 2주 1회 online, 1회 offline
+ - (Season 3) 전체모임 주 1회, 팀별 모임 주 1회이상 자율
+ - (Season 4) 전체모임 상황보고, 팀별 모임 주 1회이상 자율 
+   - [1학기 우수사례 : A-ML, 컨퍼런스 leader 해리님, 넘나 멋져요!](https://github.com/sju-coml/SAI-2021-Team-A/tree/main/ml)
+ 
  
  <br>
  
