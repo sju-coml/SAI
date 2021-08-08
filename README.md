@@ -82,16 +82,9 @@ st : state <br>
  <br>
  
 ## 6. 기타
- - 솔루션을 공부한 후, Pdf/Ppt/md/txt 등 원하는 형식으로 공부한 내용을 공유한다.
- - 깃헙을 통해 공부자료와 코드를 공유한다. (Private/Public)
- - [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg?view_as=subscriber)
- 
- <br>
- 
+ - 백번 강조해도 지나치지 않은 [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg?view_as=subscriber)
+ - 백번 강조해도 지나치지 않은 [SAI PRINCIPLE](https://sejongai.notion.site/ba60588f35f14d5fb13f4b9e41a65e15)
  - 활동 방향은 차차 정해 나가고, 별도의 문서를 통해 관리한다.
- 
- <br>
- 
  - Repository naming rule : SAI-[year]-[purpose]-[Teamname]-[topic]
 
  <br>
