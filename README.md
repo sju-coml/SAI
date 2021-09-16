@@ -18,13 +18,13 @@
 
 
 st : state <br>
-● 활동 중 ★ 현재Leader ○ 졸업/휴게 ☆ 과거Leader <br>
+● 활동/휴게 ★ 현재Leader ○ 졸업 ☆ 과거Leader <br>
 
 
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
 | 세종대<br>재직 | 컴퓨터공(졸)<br> 데린이 | 14011870 | 서기원 | Cofounder | ☆ | rldnjs3258@naver.com | |
-| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder/Leader |  ● | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | [Github](https://github.com/ProtossDragoon) |
+| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder/Leader |  ☆ | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | [Github](https://github.com/ProtossDragoon) |
 | 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com<br>suhyunified@gmail.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com |[GitHub](https://github.com/lunab/resume) |
 | 세종대<br>고려대 | 컴퓨터공(졸)<br>인공지능 | 14010994 | 주영준 | Cofounder  | ○ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
@@ -46,12 +46,12 @@ st : state <br>
 | 세종대 | 경영학(재) | 16010064 | 이주희 | Season3 | ● | juhee3199@gmail.com |  |
 | 세종대 | 호텔관광경영(재) | 16010213 | 송성곤 | Season3 | ● | ark5354@gmail.com |  |
 | 세종대 | - | - | 외n명 | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
-| 세종대 | 데이터사이언스(재)  | 19011714 | 박새란 | Season4 | ● | srpark2545@gmail.com |  |
-| 세종대 | 데이터사이언스(재) | 20011821 | 박지인 | Season4 | ● | qkrwldls0204@gmail.com |  |
-| 세종대 | 식품생명공학(재) | 17010545 | 정근수 | Season4 | ● | jungkunsoo55@gmail.com |  |
-| 세종대 | 경영학(재) | 20010123 | 권동하 | Season4 | ● | bloodyfoot08@gmail.com |  |
+| 세종대 | 데이터사이언스(재)  | 19011714 | 박새란 | Season4 | ★ | srpark2545@gmail.com |  |
+| 세종대 | 데이터사이언스(재) | 20011821 | 박지인 | Season4 | ★ | qkrwldls0204@gmail.com |  |
+| 세종대 | 식품생명공학(재) | 17010545 | 정근수 | Season4 | ○ | jungkunsoo55@gmail.com |  |
+| 세종대 | 경영학(재) | 20010123 | 권동하 | Season4 | ★ | bloodyfoot08@gmail.com |  |
+| 세종대 | 컴퓨터공학(재) | - | 조용재 | Season4 | - | - | - |
 | 세종대 | - | - | 외n명 | Season4 | - | - | - |
-
 
 <br>
 
