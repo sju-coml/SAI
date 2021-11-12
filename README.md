@@ -39,6 +39,7 @@ st : state <br>
 - 모든 회원 목록을 업로드할 수 없기 때문에, 1년마다 아래 조건을 충족하는 회원에 대해서만 README.md 에 업로드
 - 나머지 회원에 대해서는 별도의 google 스프레드시트에 관리합니다.
 - [조건 보기](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md#%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B9)
+- [참고:뭔가를 해내버린 멋쟁이들 보기](https://github.com/sju-coml/SAI/blob/master/4_%EB%A9%8B%EC%A7%84%EC%82%AC%EB%9E%8C%EB%93%A4.md)
 
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
