@@ -47,11 +47,11 @@ st : state <br>
 | 세종대 | 경영학(재) | 16010064 | 이주희 | Season3 | ● | juhee3199@gmail.com |  |
 | 세종대 | 호텔관광경영(재) | 16010213 | 송성곤 | Season3 | ● | ark5354@gmail.com |  |
 | 세종대 | - | - | 외n명 | [Season3](https://docs.google.com/spreadsheets/d/12jDz8RHlNKd8z4XGIJ8RMytsvd6ShPMyk3cncZpVbhU/edit?usp=sharing) | - | - | - |
-| 세종대 | 데이터사이언스(재)  | 19011714 | 박새란 | Season4 | ★ | srpark2545@gmail.com |  |
+| 세종대 | 데이터사이언스(재)  | 19011714 | 박새란 | Season4 | ☆ | srpark2545@gmail.com |  |
 | 세종대 | 데이터사이언스(재) | 20011821 | 박지인 | Season4 | ★ | qkrwldls0204@gmail.com |  |
 | 세종대 | 식품생명공학(재) | 17010545 | 정근수 | Season4 | ○ | jungkunsoo55@gmail.com |  |
-| 세종대 | 경영학(재) | 20010123 | 권동하 | Season4 | ★ | bloodyfoot08@gmail.com |  |
-| 세종대 | 컴퓨터공학(재) | - | 조용재 | Season4 | - | - | - |
+| 세종대 | 경영학(재) | 20010123 | 권동하 | Season4 | ☆ | bloodyfoot08@gmail.com |  |
+| 세종대 | 컴퓨터공학(재) | 18011548 | 조용재 | Season4 | ★ | dydwo706@gmail.com | - |
 | 세종대 | - | - | 외n명 | Season4 | - | - | - |
 
 <br>
@@ -66,6 +66,8 @@ st : state <br>
  - Season4 모집 : 2021. 02 
  - Season4 추가모집 : 2021. 08
  - Season4 : 2021. 03 ~ 2022. 02
+ - Season5 모집 : 2022.02
+ - Season5 : 2022. 02 ~ 2023. 01
 
 <br>
  
