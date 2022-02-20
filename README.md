@@ -23,7 +23,7 @@ st : state <br>
 
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
-| 세종대<br>재직 | 컴퓨터공(졸)<br> 데린이 | 14011870 | 서기원 | Cofounder | ☆ | rldnjs3258@naver.com | |
+| 세종대<br> GS | 컴퓨터공(졸) | 14011870 | 서기원 | Cofounder | ☆ | kw9076@gmail.com | |
 | 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder/Leader |  ☆ | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | [Github](https://github.com/ProtossDragoon) |
 | 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com<br>suhyunified@gmail.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ● | luna20617@gmail.com |[GitHub](https://github.com/lunab/resume) |
