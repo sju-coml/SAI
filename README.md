@@ -31,7 +31,7 @@ st : state <br>
 | 세종대<br>GIST | 영어->컴퓨터공(졸)<br> **전과자** 인공지능 **팡주행** | 14011890 | 김기홍 | 2019-09 | ○|kh9342@naver.com<br>hxngiee@gmail.com | [연구실기사](http://dongascience.donga.com/news.php?idx=37765) |
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | - <br> - | 배현진 | 2019-09 | ○ | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
 | 세종대 | 무인이동체전공(재) **팡주행** | 17013252 | 이상민 | 2019-10 | ○ | diasy3277@naver.com<br>diasy3277@gmail.com | |
-
+| 세종대 | 컴퓨터공(재) | 18011548 | 조용재 | 2021-03 | ★ | dydwo706naver.com<br>dydwo706@gmail.com | |
 
 <br>
 
@@ -53,6 +53,8 @@ st : state <br>
 | 세종대 | 경영학(재) | 20010123 | 권동하 | Season4 | ☆ | bloodyfoot08@gmail.com |  |
 | 세종대 | 컴퓨터공학(재) | 18011548 | 조용재 | Season4 | ★ | dydwo706@gmail.com | - |
 | 세종대 | - | - | 외n명 | Season4 | - | - | - |
+| 세종대 | 인공지능언어학과 | - | 손민주 | Season5 | ● | - |
+| 세종대 | 데이터사이언스 | - | 김주연 | Season5 | ● | - |
 
 <br>
 
@@ -67,7 +69,9 @@ st : state <br>
  - Season4 추가모집 : 2021. 08
  - Season4 : 2021. 03 ~ 2022. 02
  - Season5 모집 : 2022.02
+ - Season5 추가모집 : 2022.08
  - Season5 : 2022. 02 ~ 2023. 01
+
 
 <br>
  
