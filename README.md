@@ -1,5 +1,6 @@
 # SAI
 ### SJU - Sejong Artificial Intelligence
+동아리에서 어떤 공부를 하는지, 어떤 방식으로 진행하는지 궁금하신 분들은 아래의 Notion 페이지를 통해 확인해주시길 바랍니다!
 <hr>
 
 ### Since 2019 03
