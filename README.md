@@ -27,7 +27,7 @@ st : state <br>
 | 학교 | 학과 | 학번 | 이름 | since | st | Email | Blog |
 |:---:|:---:|:---:|:---:|:---:|:---|:---:|:---:|
 | 세종대<br> GS | 컴퓨터공(졸) | 14011870 | 서기원 | Cofounder | ☆ | kw9076@gmail.com | |
-| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder/Leader | ☆ | dlwkdgn1@naver.com<br>dlwkdgn3@gmail.com | [blog](https://www.davincijang.space?utm_source=github&utm_medium=readme&utm_campaign=personalbranding), [RESUME](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=readme&utm_campaign=personalbranding) |
+| 세종대 | 컴퓨터공(재) | 18011573 | 이장후 | Cofounder/Leader | ☆ | dlwkdgn1@naver.com | [blog](https://www.davincijang.space?utm_source=github&utm_medium=readme&utm_campaign=personalbranding), [RESUME](https://www.davincijang.space/contact/resume/full?utm_source=github&utm_medium=readme&utm_campaign=personalbranding) |
 | 세종대 | 컴퓨터공(재) | 17011572 | 임수현 | Cofounder |  ● | shelltlove1@naver.com<br>suhyunified@gmail.com | |
 | 세종대 | 바이오산업자원공(재) | 19010642 | 나영채 | Cofounder | ☆ | luna20617@gmail.com |[RESUME](https://lunab.notion.site/8f0ac69185dc41048d8e5941d40a96f8) |
 | 세종대<br>고려대 | 컴퓨터공(졸)<br>인공지능 | 14010994 | 주영준 | Cofounder  | ○ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
