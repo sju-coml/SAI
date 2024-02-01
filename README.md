@@ -1,8 +1,10 @@
 # SAI
 ### SJU - Sejong Artificial Intelligence
-동아리에서 어떤 공부를 하는지, 어떤 방식으로 진행하는지 궁금하신 분들은 아래의 Notion 페이지를 통해 확인해주시길 바랍니다!
+저희 동아리는 Notion을 메인 스터디 공간으로 이용합니다.
+동아리에서 어떤 공부를 하는지, 어떤 방식으로 진행하는지 궁금하신 분들은 깃허브보다는 , 아래의 Notion 페이지를 통해 확인해주시길 바랍니다!
 <br>
-[SAI 노션 페이지](https://www.notion.so/sejongai/Season5-Lovely-Space-98183c43ab064b5fa0d920803c52ca8e)
+[SAI 노션 페이지](https://www.notion.so/sejongai/Season6-Lovely-Space-25cfc41623ba4052b1c23950871da437) <br>
+[SAI Season7 소개 및 지난 6-2시즌 살펴보기](https://www.notion.so/sejongai/SAI-Season7-19f8fef32917465f816ede56f1867f70?pvs=4)
 <hr>
 
 ### Since 2019 03
@@ -10,9 +12,8 @@
 <br>
 
 ## 1. Index
- - 세종대학교 ML/딥러닝 학회
+ - 세종대학교 중앙학술인공지능동아리
  - [회칙이 아닌 원칙](https://sejongai.notion.site/SAI-c4ee8edfdc92413bbdded573228e2659)
- - [회의록 : 아직링크없음]()
  - [컨텐츠](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md)
 
  <br>
@@ -34,12 +35,12 @@ st : state <br>
 | 세종대<br>GIST | 영어->컴퓨터공(졸)<br> **전과자** 인공지능 **팡주행** | 14011890 | 김기홍 | 2019-09 | ○|kh9342@naver.com<br>hxngiee@gmail.com | [연구실기사](http://dongascience.donga.com/news.php?idx=37765) |
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | - <br> - | 배현진 | 2019-09 | ○ | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
 | 세종대 | 무인이동체전공(재) **팡주행** | 17013252 | 이상민 | 2019-10 | ○ | diasy3277@naver.com<br>diasy3277@gmail.com | |
-| 세종대 | 컴퓨터공(재) | 18011548 | 조용재 | 2021-03 | ★ | dydwo706naver.com<br>dydwo706@gmail.com | |
+| 세종대 | 컴퓨터공(재) | 18011548 | 조용재 | 2021-03 | ☆ | dydwo706naver.com<br>dydwo706@gmail.com | |
+| 세종대 | 컴퓨터공(재) | 21011647 | 김이나 | 2022-09 | ☆ | yina0427@sju.ac.kr | |
 
 <br>
 
-- [Season3 선발 기준](https://github.com/sju-coml/SAI/blob/master/archive/Season3_%EC%84%A0%EB%B0%9C%EA%B8%B0%EC%A4%80.md)
-- 모든 회원 목록을 업로드할 수 없기 때문에, 1년마다 아래 조건을 충족하는 회원에 대해서만 README.md 에 업로드
+- 모든 회원 목록을 업로드할 수 없기 때문에, 1년마다 아래 조건을 충족하는 회원에 대해서만 README.md 에 업로드 (24년 업데이트 예정....)
 - 나머지 회원에 대해서는 별도의 google 스프레드시트에 관리합니다.
 - [조건 보기](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md#%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B9)
 - [참고:뭔가를 해내버린 멋쟁이들 보기](https://github.com/sju-coml/SAI/blob/master/4_%EB%A9%8B%EC%A7%84%EC%82%AC%EB%9E%8C%EB%93%A4.md)
@@ -74,6 +75,7 @@ st : state <br>
  - Season5 모집 : 2022.02
  - Season5 추가모집 : 2022.08
  - Season5 : 2022. 02 ~ 2023. 01
+ - Season6 : 2023. 02 ~ 2024. 01
 
 
 <br>
@@ -234,3 +236,28 @@ st : state <br>
 - 날짜 : 2024.01
 - 주제 : 인공지능 경진대회 플랫폼인 ‘데이콘’을 활용해 총 3개의 대회 참가 및 실무 능력 향상
 - 참가자 : 서민정, 서상민, 최락원
+
+<br>
+
+### (12) 세종대 2023-2 소프트웨어융합대학 IoT 디바이스 학술제 우수상(3등)
+<h4> Team 아기5T </h4>
+
+- 날짜 : 2023.11
+- 주제 : 아기 SIDS 예방 및 모니터링을 위한 AI 자세감지와 울음소리 분석
+- 참가자 : 김이나, 나영채, 최락원, 김예찬, 이종혁
+
+<br>
+
+### (13) 세종대 AI Challenge 수상 4명 (참가 약 200명 / 수상자 10명)
+<h4> Season 6-2 멤버들 </h4>
+
+- 날짜 : 2023.11
+- 참가자 : 나영채, 김예찬, 박성준, 박서연
+
+<br>
+
+### (14) Microsoft AI Challenge for Bio Diversity
+<h4> 고래면허증을 갖고 싶은 준희 조 </h4>
+
+- 날짜 : 2024.1
+- 참가자 : 조준희, 김이나, 심민경, 서상민
