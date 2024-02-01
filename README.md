@@ -1,6 +1,6 @@
 # SAI
 ### SJU - Sejong Artificial Intelligence
-저희 동아리는 Notion을 메인 스터디 공간으로 이용합니다.
+저희 동아리는 Notion을 메인 스터디 공간으로 이용합니다. <br>
 동아리에서 어떤 공부를 하는지, 어떤 방식으로 진행하는지 궁금하신 분들은 깃허브보다는 , 아래의 Notion 페이지를 통해 확인해주시길 바랍니다!
 <br>
 [SAI 노션 페이지](https://www.notion.so/sejongai/Season6-Lovely-Space-25cfc41623ba4052b1c23950871da437) <br>
@@ -13,7 +13,6 @@
 
 ## 1. Index
  - 세종대학교 중앙학술인공지능동아리
- - [회칙이 아닌 원칙](https://sejongai.notion.site/SAI-c4ee8edfdc92413bbdded573228e2659)
  - [컨텐츠](https://github.com/sju-coml/SAI/blob/master/2_%EC%9A%B4%EC%98%81_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.md)
 
  <br>
