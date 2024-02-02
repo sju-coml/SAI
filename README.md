@@ -255,7 +255,7 @@ st : state <br>
 
 <br>
 
-### (14) Microsoft AI Challenge for Bio Diversity
+### (14) Microsoft AI Challenge for Bio Diversity 우수상
 <h4> 고래면허증을 갖고 싶은 준희 조 </h4>
 
 - 날짜 : 2024.1
