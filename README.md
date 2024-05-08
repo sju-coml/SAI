@@ -33,7 +33,7 @@ st : state <br>
 | 세종대<br>고려대 | 컴퓨터공(졸)<br>인공지능 | 14010994 | 주영준 | Cofounder  | ○ | go1217jo@naver.com|[Tstory](https://wdprogrammer.tistory.com)|
 | 세종대<br>GIST | 영어->컴퓨터공(졸)<br> **전과자** 인공지능 **팡주행** | 14011890 | 김기홍 | 2019-09 | ○|kh9342@naver.com<br>hxngiee@gmail.com | [연구실기사](http://dongascience.donga.com/news.php?idx=37765) |
 | 세종대<br>세종대 | 건축공(졸)<br>건축공(재) | - <br> - | 배현진 | 2019-09 | ○ | bberry25@sju.ac.kr<br>bberry0908@gmail.com | |
-| 세종대 | 무인이동체전공(재) **팡주행** | 17013252 | 이상민 | 2019-10 | ○ | diasy3277@naver.com<br>diasy3277@gmail.com | |
+| 세종대 | 무인이동체전공(재) **팡주행** | 17013252 | 이하리 | 2019-10 | ○ | diasy3277@naver.com<br>diasy3277@gmail.com | |
 | 세종대 | 컴퓨터공(재) | 18011548 | 조용재 | 2021-03 | ☆ | dydwo706naver.com<br>dydwo706@gmail.com | |
 | 세종대 | 컴퓨터공(재) | 21011647 | 김이나 | 2022-09 | ☆ | yina0427@sju.ac.kr | |
 | 세종대 | 인공지능학과(재) | 22012140 | 심민경 | 2023-03 | ★ | mkshim02@naver.com| |
