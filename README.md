@@ -57,7 +57,7 @@ st : state <br>
 | 세종대 | 경영학(재) | 20010123 | 권동하 | Season4 | ☆ | bloodyfoot08@gmail.com |  |
 | 세종대 | 컴퓨터공학(재) | 18011548 | 조용재 | Season4 | ★ | dydwo706@gmail.com | - |
 | 세종대 | - | - | 외n명 | Season4 | - | - | - |
-| 세종대 | 인공지능언어학과 | - | 손민주 | Season5 | ● | - |
+| 세종대 | 인공지능언어학과 | - | 손민주 | Season5 | ● | gloria105200@gmail.com | - |
 | 세종대 | 데이터사이언스 | - | 김주연 | Season5 | ● | - |
 
 <br>
